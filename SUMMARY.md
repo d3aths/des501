@@ -1,4 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [activity 1.1](activity-1.1.md)
+* [activity 1.2](activity-1.2.md)
+* [activity 1.3](activity-1.3.md)
 
