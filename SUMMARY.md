@@ -1,9 +1,17 @@
 # Table of contents
 
-* [DES TOPIC 1](README.md)
-* [activity 1.1](activity-1.1.md)
-* [activity 1.2](activity-1.2.md)
-* [activity 1.3](activity-1.3.md)
-* [activity 1.4](activity-1.4.md)
-* [activity 1.5](activity-1.5.md)
+* [Gitbook for DES501](README.md)
+
+## DES Topic 1
+
+* [activity 1.1](des-topic-1/activity-1.1.md)
+* [activity 1.2](des-topic-1/activity-1.2.md)
+* [activity 1.3](des-topic-1/activity-1.3.md)
+* [activity 1.4](des-topic-1/activity-1.4.md)
+* [activity 1.5](des-topic-1/activity-1.5.md)
+
+## DES Topic 2
+
+* [activity 2.1](des-topic-2/activity-2.1.md)
+* [activity 2.2](des-topic-2/activity-2.2.md)
 
