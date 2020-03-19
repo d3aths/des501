@@ -15,3 +15,7 @@
 * [activity 2.1](des-topic-2/activity-2.1.md)
 * [activity 2.2](des-topic-2/activity-2.2.md)
 
+## DES TOPIC 3
+
+* [activity 3.1](des-topic-3/activity-3.1.md)
+
