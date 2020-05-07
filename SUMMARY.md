@@ -19,3 +19,8 @@
 
 * [activity 3.1](des-topic-3/activity-3.1.md)
 
+## DES Topic 4
+
+* [activity 4.1](des-topic-4/activity-4.1.md)
+* [activity 4.2](des-topic-4/activity-4.2.md)
+
