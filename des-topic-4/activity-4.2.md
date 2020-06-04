@@ -6,7 +6,7 @@ Important things for usability would be the layout of the website ie where the c
 
 A bad example of website usability would be Square enix's mogstation, shown below
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 For one thing, the recruit a friend option isn't available on that page where it shows you how many people have been accepted. You have to search for it completely off your account page, only to be taken to a page that looks exactly like above only there is a big button that takes you to the recruit a friend options page. Why can't that just be there in the first place?  
 Another huge complaint that I can't really show in a screenshot would be the subscription options. First of all, since Oceanic accounts are tied to the EU region, it only displays sub fees in Euros and you have to pay for everything in euros which the converted to our regions currency, end up being almost double. Secondly since the Oceanic region is tied to EU, it won't let you use a visa card that isn't located from the Europe region. Thirdly, they have another subscription option called Crysta, which isn't even displayed on that page. You have to buy it first and then you can pay for your game time, or custom items from their store, or anything you want on their website. But on the page to buy it, it doesn't show how much you need for your game time. And once you have bought it, its very hard to find the option that lets you buy game time with crysta. And after messing around with all that because apparently it is the cheapest way to pay for the game, I found after going through the checkout, that Crysta wasn't even available for my region.  

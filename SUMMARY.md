@@ -24,3 +24,13 @@
 * [activity 4.1](des-topic-4/activity-4.1.md)
 * [activity 4.2](des-topic-4/activity-4.2.md)
 
+## DES Topic 5
+
+* [activity 5.1](des-topic-5/activity-5.1.md)
+* [activity 5.2](des-topic-5/activity-5.2.md)
+
+## DES Topic 6
+
+* [activity 6.1](des-topic-6/activity-6.1.md)
+* [activity 6.2](des-topic-6/activity-6.2.md)
+
