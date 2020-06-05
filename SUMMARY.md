@@ -33,4 +33,5 @@
 
 * [activity 6.1](des-topic-6/activity-6.1.md)
 * [activity 6.2](des-topic-6/activity-6.2.md)
+* [activity 6.3](des-topic-6/activity-6.3.md)
 
